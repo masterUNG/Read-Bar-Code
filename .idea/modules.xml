@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidBarCode.iml" filepath="$PROJECT_DIR$/AndroidBarCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Read-Bar-Code.iml" filepath="$PROJECT_DIR$/Read-Bar-Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
